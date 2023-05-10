@@ -10,4 +10,5 @@ The purpose of this project is to observe the distance travelled by the Voyager 
 
 ### FINDINGS:
 The model's residuals were found to be independent through the Ljung-Box test, but the Shapiro test concluded that they were not normal. This was most likely due to the presence of an outlier in the residuals. There was not much I could do in this case and had to proceed with what I had.
+
 Forecasting was a success. The mean squared error produced between the actual and predicted values was very small, and the actual values were within the confidence intervals of the predictions.
